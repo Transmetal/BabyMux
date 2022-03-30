@@ -19,6 +19,3 @@ This project is under the general public license v3.0 so you are free to make an
 <li><i>kefka hacks</i></li>
 <li><i>sundaysec</i></li>
 </ol>
-Now you are good to go<br>
-
-<b><i>HAVE FUN USING BABYMUX GUYS!!</i></b>
